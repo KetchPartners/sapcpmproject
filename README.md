@@ -1,4 +1,5 @@
 ## This source has been genereated using swagger codegen (https://github.com/swagger-api/swagger-codegen/tree/v2.2.2)
+This repo is testing the use of the API by SAP for Commercial Projects.
 
 # com.sap.apibhub.sdk
 
